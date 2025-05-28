@@ -11,7 +11,7 @@
 
 * [💎 The $BARON Token](core-mechanics/baron-token.md)
 * [🔥 Staking System](core-mechanics/staking-system.md)
-* [📜 Import License System](core-mechanics/import-license-system.md)
+* [📜 Import License System(coming to v2)](core-mechanics/import-license-system.md)
 
 ## Elite System
 
