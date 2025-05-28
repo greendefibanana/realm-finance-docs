@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏰 Welcome to Baron DeFi](README.md)
+* [🏰 Welcome to RealmFi](README.md)
 
 ## Getting Started
 
