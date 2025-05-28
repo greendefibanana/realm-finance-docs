@@ -12,7 +12,7 @@
 * **🏰 Website**: [realmfinace](https://realmfinancedao.xyz/)
 * **⚔️ Application**: [https://realmfinancedao.xyz/](https://realmfinancedao.xyz/)dapp
 * **📢 Twitter**: [https://x.com/realmfinance?s=21](https://x.com/realmfinance?s=21)
-* **💬 Discord**: [https://t.me/realmfinance](https://t.me/realmfinance)
+* **💬 Telegram**: [https://t.me/realmfinance](https://t.me/realmfinance)
 
 
 
