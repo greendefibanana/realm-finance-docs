@@ -25,7 +25,7 @@ Mastering tariffs requires solving a high-stakes economic puzzle:
 - Ideal for high-traffic routes where volume matters most
 - **Risk**: Might leave money on the table if demand is inelastic
 
-> 💡 **Optimization Goal**: Find the tariff rate that generates maximum total income!
+> 💡 **Optimization Goal**: Find the tariff rate that geneerates maximum total income!
 
 ## Multi-Controller Dynamics
 
