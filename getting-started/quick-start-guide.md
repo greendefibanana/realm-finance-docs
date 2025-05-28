@@ -1,5 +1,7 @@
 # 🚀 Quick Start Guide
 
+<figure><img src="../.gitbook/assets/Artboard 12@2x.jpg" alt=""><figcaption></figcaption></figure>
+
 Get started with RealmFi in just a few strategic steps:
 
 ## Step 1: Connect Your Wallet

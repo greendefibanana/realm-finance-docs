@@ -4,7 +4,7 @@ _Strategic DeFi Gaming Meets Economic Warfare_
 
 ![](<.gitbook/assets/Artboard 2@2x.jpg>)
 
-> _"In Baron DeFi, strategic thinking and capital deployment determine your success. Build your trading empire through skilled route control, alliance formation, and competitive Trade Wars."_
+> _"In RealmFi, strategic thinking and capital deployment determine your success. Build your trading empire through skilled route control, alliance formation, and competitive Trade Wars."_
 
 RealmFi is an advanced DeFi protocol that combines treasury-backed tokenomics with competitive gameplay mechanics. Every token you hold represents economic power, every strategy you deploy affects your returns, and every victory builds your position in the ecosystem.
 
@@ -73,7 +73,7 @@ Experienced with OlympusDAO? RealmFi builds upon proven concepts with strategic 
 
 ### 🔰 For DeFi Newcomers
 
-New to DeFi? Baron DeFi makes complex financial mechanics approachable through strategic gameplay:
+New to DeFi? RealmFi makes complex financial mechanics approachable through strategic gameplay:
 
 * **Trade routes** = Control profitable business pathways
 * **Tariff collection** = Earn fees from economic activity in your territories
